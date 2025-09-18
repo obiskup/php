@@ -5,7 +5,7 @@
     $liczbaElementow = count($tablica);
     $i = 0;
 
-    echo "Tabela:"; print_r($tablica); echo "<br>";
+    echo "Tablica:"; print_r($tablica); echo "<br>";
     echo "Szukane jest $szukane: <br>\n";
 
     while($i < $liczbaElementow){
